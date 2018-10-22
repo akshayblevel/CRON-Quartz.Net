@@ -1,0 +1,10 @@
+D:\AKKI_DEV\RND\CRON\CRON\bin\Debug\CRON.exe.config
+D:\AKKI_DEV\RND\CRON\CRON\bin\Debug\CRON.exe
+D:\AKKI_DEV\RND\CRON\CRON\bin\Debug\CRON.pdb
+D:\AKKI_DEV\RND\CRON\CRON\bin\Debug\Quartz.dll
+D:\AKKI_DEV\RND\CRON\CRON\bin\Debug\Quartz.pdb
+D:\AKKI_DEV\RND\CRON\CRON\bin\Debug\Quartz.xml
+D:\AKKI_DEV\RND\CRON\CRON\obj\Debug\CRON.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\CRON\CRON\obj\Debug\CRON.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CRON\CRON\obj\Debug\CRON.exe
+D:\AKKI_DEV\RND\CRON\CRON\obj\Debug\CRON.pdb
